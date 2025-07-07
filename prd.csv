@@ -1,0 +1,21 @@
+Product,Category,Price,Quantity
+Laptop,Electronics,1200,10
+Smartphone,Electronics,800,15
+Tablet,Electronics,400,20
+Headphones,Accessories,150,25
+Smartwatch,Accessories,250,30
+Camera,Electronics,600,12
+Printer,Electronics,300,8
+Monitor,Electronics,350,5
+Keyboard,Accessories,100,40
+Mouse,Accessories,50,50
+Charger,Accessories,30,60
+Speaker,Accessories,200,20
+Television,Electronics,1500,7
+Projector,Electronics,900,4
+Router,Electronics,200,15
+External Hard Drive,Accessories,120,18
+USB Flash Drive,Accessories,25,100
+Webcam,Accessories,80,35
+Microphone,Accessories,70,28
+Gaming Console,Electronics,500,10
