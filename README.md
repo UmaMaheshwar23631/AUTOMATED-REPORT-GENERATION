@@ -59,8 +59,9 @@ In summary, this project transformed raw CSV files into insightful and visually 
 ![Image](https://github.com/user-attachments/assets/79400be5-2594-4051-80f7-34805f0d7e14)
 ![Image](https://github.com/user-attachments/assets/53a61797-53cc-4f3c-b059-d18e8911ef4b)
 
-See the pdf for a better reference.
+See the PDFs for a better reference.
 
-[smart_report_2025-07-07_15-55-45.pdf](https://github.com/user-attachments/files/21101129/smart_report_2025-07-07_15-55-45.pdf)
-[smart_report_2025-07-07_16-21-47.pdf](https://github.com/user-attachments/files/21101128/smart_report_2025-07-07_16-21-47.pdf)
+[smart_report_2025-07-07_15-55-45.pdf](https://github.com/user-attachments/files/21101129/smart_report_2025-07-07_15-55-45.pdf) - Product csv
+
+[smart_report_2025-07-07_16-21-47.pdf](https://github.com/user-attachments/files/21101128/smart_report_2025-07-07_16-21-47.pdf) - Employee csv
 
