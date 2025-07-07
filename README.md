@@ -55,4 +55,6 @@ In summary, this project transformed raw CSV files into insightful and visually 
 
 *OUTPUT*
 
+[smart_report_2025-07-07_15-55-45.pdf](https://github.com/user-attachments/files/21101129/smart_report_2025-07-07_15-55-45.pdf)
+[smart_report_2025-07-07_16-21-47.pdf](https://github.com/user-attachments/files/21101128/smart_report_2025-07-07_16-21-47.pdf)
 
