@@ -24,6 +24,8 @@ To make the final output presentable and shareable, I used the fpdf library to g
 
 One of the highlights of this tool is its automation and adaptability. The report generator automatically skips overly complex columns (like those with too many unique values), ensuring that the report remains clean and focused. It also assigns a unique timestamped filename for every report, avoiding accidental overwrites and helping in version control. Currently , it works only on limited variety of data , which you will observe by looking at the output.
 
+I have made it with the help of resources from Google, Youtube & Chatgpt. You need it install the required libraries - pandas, fpdf & matplotlib.
+
 🌟 Why This Project Matters
 This task is more than just a script — it's a template for real-world automation in data analysis workflows. In businesses or organizations that deal with regular data reporting, this tool could save hours of manual effort by summarizing large datasets into readable, structured documents within seconds. It bridges the gap between raw data and decision-making, offering a practical solution for non-technical stakeholders to access insights.
 
@@ -48,8 +50,6 @@ This task is more than just a script — it's a template for real-world automati
 -> Visualize data to enhance storytelling
 
 -> Create readable, portable documents using code
-
-I have made this project with the help of resources from Google, Youtube & Chatgpt.
 
 In summary, this project transformed raw CSV files into insightful and visually appealing PDF reports — a small but meaningful step toward mastering data automation and reporting tools used in modern analytics.
 
